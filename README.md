@@ -1,0 +1,2 @@
+# SpecificationPattern
+SpecificationPattern in C#
